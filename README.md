@@ -1,1 +1,3 @@
-# Programlama-temeller-
+mahmut genç
+# Programlama-temeller
+## projenin amacı:
